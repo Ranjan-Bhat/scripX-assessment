@@ -36,3 +36,79 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.list {
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 20px;
+}
+
+.list img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.list div {
+  margin-bottom: 10px;
+}
+
+.list strong {
+  font-weight: bold;
+  color: #333;
+}
+
+.list .name {
+  font-size: 24px;
+  color: #333;
+}
+
+.list .language {
+  color: #888;
+}
+
+.list .genres {
+  color: #555;
+}
+
+.list .runtime {
+  color: #555;
+}
+
+.list .premiered {
+  color: #555;
+}
+
+.list .rating {
+  color: #555;
+}
+
+.list .country {
+  color: #555;
+}
+
+nav {
+  background-color: #f5f5f5;
+  padding: 10px;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px;
+}
+
+nav a:hover {
+  color: #555;
+  background-color: #eaeaea;
+}
+
